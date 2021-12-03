@@ -1,8 +1,6 @@
-Exemplo de pong de : https://www.youtube.com/watch?v=YHSanceczXY
+Histórico Completo da branch - e muito code junk @ https://github.com/WindFuchs/IA2021-2/tree/main/Trabalho%20IA%20-%20GB%20-%20Pong
 
 # IA2021-2
-Exercícios e Trabalhos de IA
-
 Trabalho Machine Learning Grau B.
 
 # Instalação 
