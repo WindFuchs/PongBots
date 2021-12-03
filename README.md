@@ -17,3 +17,5 @@ Trabalho Machine Learning Grau B.
 6- Instalar MLAgents com o comando "pip install mlagents"
 
 7- Instalar atraves do Package Manager da Unity o MLAgents 2.1.0 (precisa ativar visualização de preview packages nas configurações avançadas)
+
+8- IAs já treinadas se encontram na pasta Assets\Brains
