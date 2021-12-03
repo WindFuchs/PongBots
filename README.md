@@ -1,5 +1,5 @@
 Histórico Completo da branch - e muito code junk @ https://github.com/WindFuchs/IA2021-2/tree/main/Trabalho%20IA%20-%20GB%20-%20Pong
-
+ICH.IO - https://nolliefipx.itch.io/pongbots
 # IA2021-2
 Trabalho Machine Learning Grau B.
 
